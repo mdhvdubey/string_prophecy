@@ -1,2 +1,2 @@
 # string_prophecy
-this repository contains trash. in other words i'm trying to learn github
+string manipulation , find & replace, reverse strings, reverse words in a string etc
